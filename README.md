@@ -1,3 +1,9 @@
+Jeff Mbogo
+SCT212-0125/2022
+
+
+
+
 # ICS 2105 – Data Structures and Algorithms
 Quiz One 
 
